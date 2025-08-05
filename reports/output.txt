@@ -1,0 +1,16 @@
+[Running] python -u "d:\Wipro Training\5-August\Python-hands-on\file_operations.py"
+
+Current Working Directory: d:\Wipro Training\5-August\Python-hands-on
+
+file_operations.py is a file.
+
+Directory 'test_folder' already exists.
+
+
+List of .txt files in current directory:
+
+Current Working Directory: d:\Wipro Training\5-August\Python-hands-on
+Directory 'reports' already exists.
+Processing .txt files:
+
+[Done] exited with code=0 in 0.099 seconds
