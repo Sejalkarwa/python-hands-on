@@ -1,0 +1,3 @@
+This is a permanent file.
+It contains some permanent values.
+Here is another line with permanent.
