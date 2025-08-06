@@ -1,5 +1,6 @@
 # This is a comment
 This is a temp file.
 It contains some temp values.
-# Ignore this comment line
-Here is another line with temp.
+# Comment gives information
+Hello my name is Sejal
+This is file1.txt
